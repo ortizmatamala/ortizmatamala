@@ -1,9 +1,9 @@
 # Lukas Ortiz Matamala
 Economics & Finance student at PUC.
 
-# Topics of Interest
+## Topics of Interest
 * Derivatives & Market Microstructure
 * Data Analysis & Empirical Finance
 
-# Contact
+## Contact
 * ortiz.matamala.l@gmail.com
