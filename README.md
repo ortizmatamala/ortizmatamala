@@ -3,7 +3,7 @@ Economics & Finance student at PUC.
 
 ## Topics of Interest
 * Derivatives & Market Microstructure
-* Data Analysis & Empirical Finance
+* Empirical Finance & Introductory Alternative Methods
 
 ## Contact
 * ortiz.matamala.l@gmail.com
